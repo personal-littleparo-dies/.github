@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+# TODO: 1. 섭에 있는 폴더대로 정렬해서 놓을 것
 <!--
 
 **Here are some ideas to get you started:**
